@@ -2,16 +2,19 @@
   "etats-complementaires":
     [
       {
+        "id": 1,
         "note": "COMP-CHARGED",
         "intitule": "ETAT COMPLEMENTAIRE: DETAIL CHARGE",
         "statut": true
       },
       {
+        "id": 2,
         "note": "COMP-TVA(1)",
         "intitule": "ETAT COMPLEMENTAIRE: TVA",
         "statut": false
       },
       {
+        "id": 3,
         "note": "COMP-TVA(2)",
         "intitule": "ETAT COMPLEMENTAIRE POUR L'INS: TVA SUPPORTEE NON REDUCTIBLE",
         "statut": false
