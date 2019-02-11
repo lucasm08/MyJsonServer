@@ -19,7 +19,7 @@
         "id": 3,
         "note": "COMP-TVA(2)",
         "intitule": "ETAT COMPLEMENTAIRE POUR L'INS: TVA SUPPORTEE NON REDUCTIBLE",
-        "statut": false
+        "statut": false,
         "urlDetails": "detail-des-charges"
       }
     ],
