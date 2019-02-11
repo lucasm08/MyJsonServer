@@ -19,5 +19,106 @@
         "intitule": "ETAT COMPLEMENTAIRE POUR L'INS: TVA SUPPORTEE NON REDUCTIBLE",
         "statut": false
       }
-    ]
+    ],
+  "detail-des-charges": [
+    {
+      "id": 1,
+      "comptePrincipale": "Achats de marchandises",
+      "code": "RA",
+      "sousComptes": [
+        {
+          "compte": 6011,
+          "libelle": "Achats de marchandises dans la région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6012,
+          "libelle": "Achats de marchandises hors région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6013,
+          "libelle": "Achats de marchandises aux entités du groupe dans la région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6014,
+          "libelle": "Achats de marchandises aux entités du groupe hors région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6015,
+          "libelle": "Frais sur achats",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6019,
+          "libelle": "Rabais, remises et ristournes obtenus (non ventilés)",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "comptePrincipale": "Variation de stocks",
+      "code": "RB",
+      "sousComptes": [
+        {
+          "compte": 6031,
+          "libelle": "Variation des stocks de marchandises",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "comptePrincipale": "Achats de matières premières et fournitures liées",
+      "code": "RC",
+      "sousComptes": [
+        {
+          "compte": 6021,
+          "libelle": "Achats de matières premières et fournitures liées dans la région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6022,
+          "libelle": "Achats de matières premières et fournitures liées hors région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6023,
+          "libelle": "Achats de matières premières et fournitures liées aux entités du groupe dans la région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6024,
+          "libelle": "Achats de matières premières et fournitures liées aux entités du groupe hors région",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6025,
+          "libelle": "Frais sur achats",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        },
+        {
+          "compte": 6029,
+          "libelle": "Rabais, remises et ristournes obtenus (non ventilés)",
+          "exerciceN": 0,
+          "exerciceN1": 0
+        }
+      ]
+    }
+  ]
 }
